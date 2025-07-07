@@ -3,7 +3,7 @@
 This is a simple Java console application that demonstrates basic CRUD operations  
 (Create, Read, Update, Delete) using a PostgreSQL database.
 
-## 👥 Group Members
+## Group Members
 - Najma
 - Hafswa
 - Mahir
